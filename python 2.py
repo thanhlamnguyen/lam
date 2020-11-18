@@ -15,5 +15,5 @@ for x in a:
         print ('Logarith của các phần tử thứ',n,'=',math.log(x))
     else :
         print ('Không có Logarith')
-        https://github.com/thanhlamnguyen/lam.git
+        
         
